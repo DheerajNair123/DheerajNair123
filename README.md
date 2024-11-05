@@ -11,12 +11,15 @@ Just Trying new stuff✨
 
 -  💬 Ask me about JavaScript, Python, or any tips for starting out in programming!
 
--  📫 How to reach me: [dheerajnairp@gmail.com] or connect on [LinkedIN](www.linkedin.com/in/dheerajnairp).
-
 - 😄 Pronouns: He/Him
 
 - ⚡ Fun fact: When I'm not coding, you might find me trying out new recipes or exploring local hiking trails.
 
+## 📫 How to reach me
+[<img src="email.png" height="50px">](mailto:dheerajnairp@gmail.com)
+[<img src="linkedin.png" height="50px">](https://www.linkedin.com/in/dheerajnairp)
+
+    
 <!--
 **DheerajNair123/DheerajNair123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
