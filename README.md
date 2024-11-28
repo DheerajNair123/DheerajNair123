@@ -13,6 +13,15 @@ Just Trying new stuff✨
 
 - 😄 Pronouns: He/Him
 
+- 🪲Also good in
+-   class Test
+{
+    public static void main(String []args)
+    {
+        System.out.println("Hello Github");
+    }
+};
+
 - ⚡ Fun fact: When I'm not coding, you might find me trying out new recipes or exploring local hiking trails.
 
 ## 📫 How to reach me
